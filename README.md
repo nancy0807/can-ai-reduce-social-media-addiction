@@ -1,8 +1,7 @@
 # Can AI Reduce Social Media Addiction?
 
 A research-backed AI product strategy case study applying behavioural 
-psychology, harm reduction theory, and human-centred AI design to 
-Compulsive social media use.
+psychology, harm reduction theory, and human-centred AI design to compulsive social media use.
 
 ---
 

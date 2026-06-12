@@ -44,7 +44,3 @@ Niharika Chauhan
 CS + AI/ML Student, VIT Bhopal  
 Targeting: Product Management · AI Strategy · Human-Centered AI  
 LinkedIn: linkedin.com/in/niharika776327
-
-
-
-Once you've done all three, share a screenshot and we move to Phase 1 Section 2 — the competitor audit. That's where the case study gets its sharpest argument.

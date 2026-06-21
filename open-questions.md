@@ -25,7 +25,7 @@ phases can address them deliberately rather than by accident.
 - At what point does the AI's role taper off? What does success look
   like if the goal isn't zero usage but sustainable, intentional use?
 
-## Cross-cutting questions (not yet assigned to a phase)
+## Cross-cutting questions
 
 - Is "addiction" the right clinical framing, or should the case study
   formally adopt "problematic use" / "compulsive engagement" instead?

@@ -40,13 +40,3 @@ phases can address them deliberately rather than by accident.
   age-group breakdown, geography — before the product scope is finalized.
 
 ---
-
-## How this file is used
-
-Each phase should review this list before starting and add to it as new
-unknowns surface. Questions get struck through (not deleted) once
-resolved, with a one-line pointer to where the answer lives.
-
-This file is a deliberate signal of intellectual honesty for anyone
-reviewing the repository — it shows which assumptions are still open
-rather than presenting every claim as settled.
